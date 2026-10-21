@@ -1,0 +1,14 @@
+{
+  "name": "董的图标仓库",
+  "description": "By 159165",
+  "icons": [
+    {
+      "name": "chrome.png",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/7ffe362dcbb7bc246ee0753edd5dcfaaee6abe4a/chrome.png"
+    },
+    {
+      "name": "gemini.png",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/7ffe362dcbb7bc246ee0753edd5dcfaaee6abe4a/gemini.png"
+    }
+  ]
+}
