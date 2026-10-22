@@ -1,0 +1,30 @@
+{
+  "name": "159165 Icons",
+  "description": "我的 QX 图标库",
+  "icons": [
+    {
+      "name": "Apple Intelligence",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/apple_intelligence.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/claude.png"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/gemini.png"
+    },
+    {
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/global.png"
+    },
+    {
+      "name": "GPT",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/gpt.png"
+    },
+    {
+      "name": "International",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/international.png"
+    }
+  ]
+}
