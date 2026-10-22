@@ -25,6 +25,10 @@
     {
       "name": "International",
       "url": "https://raw.githubusercontent.com/159165/qx-icons/main/international.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/159165/qx-icons/main/google.png"
     }
   ]
 }
